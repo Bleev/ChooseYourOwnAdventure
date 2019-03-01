@@ -40,6 +40,7 @@ var game = {
         
         nohomo: {
             message:"You take his hand and together you come across that lion from before. Snake screams for you to run while he takes out the 1% Shaggy Pill and pops it into his mouth. He gets even more dummy THICC and proceeds to fight off the lion. After an EPIC fist to the face, the lion disintergrates before your very eyes, but at the cost of Snake's life. Snake collapses from the 1% Shaggy Pill and falls into your arms",
+            background_image: "realsnakeoof.jpg",
             choices: [
                 {
                     text: "don't cry",
